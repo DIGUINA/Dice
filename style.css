@@ -1,0 +1,47 @@
+body {
+  background-color: #393E46;
+}
+
+#diguina{
+  color:white;
+  font-weight: bold;
+}
+
+#fils{
+  color:#4ECCA3;
+  font-weight: bold;
+}
+
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+
+  h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #4ECCA3;
+  text-align: center;
+}
+
+footer p {
+  margin-top: 5%;
+  color: #4ECCA3;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+p {
+  font-size: 1rem;
+  color: white;
+  font-family: arial;
+}
